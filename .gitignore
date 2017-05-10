@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+#ML FILES
+*.tfrecord
+1_video_level_train_download_plan.json
+
 # Distribution / packaging
 .Python
 env/
